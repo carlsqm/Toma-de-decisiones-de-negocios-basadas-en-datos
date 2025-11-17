@@ -10,10 +10,15 @@ Este proyecto se centra en apoyar la toma de decisiones estratégicas mediante e
 El objetivo es evaluar el rendimiento del producto, identificar puntos críticos, comparar segmentos y proponer recomendaciones accionables.
 
 Se aplican técnicas avanzadas de análisis como:
+
 ✔ Pruebas de hipótesis
+
 ✔ Comparaciones entre segmentos
+
 ✔ Análisis de conversión
+
 ✔ Evaluación de impacto
+
 ✔ Identificación de oportunidades de mejora
 
 🧠 Metodología
@@ -56,7 +61,11 @@ Impacto de features o eventos específicos
 📈 Principales Resultados
 
 ✔ Se identificaron diferencias significativas entre segmentos clave.
+
 ✔ Varias mejoras propuestas muestran impacto estadístico positivo.
+
 ✔ Algunas variaciones no tuvieron efecto significativo, permitiendo descartar hipótesis y ahorrar recursos.
+
 ✔ El análisis reveló puntos críticos en el funnel donde se pierde mayor porcentaje de usuarios.
+
 ✔ Se detectaron oportunidades de crecimiento basadas en comportamientos reales de los usuarios.
