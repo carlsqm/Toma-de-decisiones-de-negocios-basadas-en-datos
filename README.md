@@ -18,6 +18,7 @@ Identificación de valores faltantes y atípicos.
 
 Consolidación de categorías y preparación para análisis comparativos.
 
+
 2.- Métricas clave de negocio
 
 Se analizaron indicadores como:
@@ -31,6 +32,7 @@ Duración de sesiones y comportamiento de usuarios
 Ingresos por segmentos
 
 Análisis temporal para detectar cambios o anomalías
+
 
 3.- Pruebas de hipótesis
 
@@ -51,6 +53,7 @@ t-test de medias
 Prueba de proporciones
 
 Análisis por segmentos y cohortes
+
 
 4.- Evaluación del impacto en el producto
 
